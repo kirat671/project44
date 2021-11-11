@@ -9,18 +9,18 @@ var sheartImg, shootgunImg, sheart;
 var klkl;
 
 function preload(){
-  backgroundImg = loadImage("images/back.jpg");
-  Zombie1 = loadImage("images/zombie.png")
-  Szombie2 = loadImage("images/level1Zombie.png")
-  Szombie3 = loadImage("images/level2Zombie.png")
-  Bzombie = loadImage("images/BossZombie.png")
-  armymanImg = loadImage("images/Armyman.png")
-  heart1Img = loadImage("images/heart.png")
-  heart2Img = loadImage("images/heart.png")
-  heart3Img = loadImage("images/heart.png")
-  BulletImg = loadImage("images/bullet.png")
-  sheartImg = loadImage("images/Sheart.png")
-  shootgunImg = loadImage("images/shootgun.png")
+  backgroundImg = loadImage("back.jpg");
+  Zombie1 = loadImage("zombie.png")
+  Szombie2 = loadImage("level1Zombie.png")
+  Szombie3 = loadImage("level2Zombie.png")
+  Bzombie = loadImage("BossZombie.png")
+  armymanImg = loadImage("Armyman.png")
+  heart1Img = loadImage("heart.png")
+  heart2Img = loadImage("heart.png")
+  heart3Img = loadImage("heart.png")
+  BulletImg = loadImage("bullet.png")
+  sheartImg = loadImage("Sheart.png")
+  shootgunImg = loadImage("shootgun.png")
 
 }
 
